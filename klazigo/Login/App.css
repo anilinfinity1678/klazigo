@@ -1,0 +1,21 @@
+.signup{
+  width: 824px;
+  height: 493px;
+  box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.06), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+  background: #FFFFFF;
+mix-blend-mode: normal;
+border-radius: 5px;
+    
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.into{
+  position:relative;
+  left:375px;
+  bottom:455px; 
+}   
